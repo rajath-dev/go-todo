@@ -1,3 +1,3 @@
 # Todo APIs
 
-Basic todo apis to get started on Golang
+Learning GoLang by building simple todo apis
